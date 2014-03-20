@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FSMK CFM</string>
+    <string name="button_ok">OK</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device</string>
+    <string name="break_fast">Break fast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="process">Process</string>
+    <string name="confirm_each_qr">Confirm each QR</string>
+    <string name="_0">0</string>
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="csv">CSV</string>
+    <string name="do_you_want_to_delete_your_last_scan">Do you want to delete your last scan?</string>
+    <string name="delete_last_scan">Delete last scan?</string>
+    <string name="last_scan_deleted">Last scan deleted</string>
+    <string name="previous_scan_not_available">Previous scan not available</string>
+    <string name="invalid_qr_code">Invalid QR code</string>
+    <string name="you_already_had_food">Sorry, you already had food</string>
+    <string name="welcome">Welcome</string>
+    <string name="list_title">Scaned id : %s</string>
+    <string name="enable_or_disable_sound_effect">Enable or disable sound effects</string>
+    <string name="sound_effect">Sound effect</string>
+    <string name="enable_or_disable_vibration_feedbacks">Enable or disable vibration feedbacks</string>
+    <string name="vibration">Vibration</string>
+    <string name="feedbacks">Feedbacks</string>
+    <string name="database">Database</string>
+    <string name="click_to_delete_all_data">Clear all data</string>
+    <string name="do_you_want_to_clear_all_data">Do you want to clear all data?</string>
+    <string name="file_writting_error">Error while writing file</string>
+    <string name="file_successfully_wrote">CSV file generatted to %s</string>
+    <string name="csv_file_generatting">CSV file generating&#8230;\n</string>
+    <string name="do_you_want_to_generate_csv_file_now">Do you want to generate CSV file now?</string>
+    <string name="generate_scv">Generate CSV?</string>
+    <string name="clear_all_date">Clear all data?</string>
+
+</resources>

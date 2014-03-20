@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="date_array">
+        <item>19/Jul/2013</item>
+        <item>20/Jul/2013</item>
+        <item>21/Jul/2013</item>
+        <item>22/Jul/2013</item>
+        <item>23/Jul/2013</item>
+        <item>24/Jul/2013</item>
+        <item>25/Jul/2013</item>
+        <item>26/Jul/2013</item>
+        <item>27/Jul/2013</item>
+        <item>28/Jul/2013</item>
+        <item>29/Jul/2013</item>
+    </string-array>
+
+</resources>
